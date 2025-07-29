@@ -1,0 +1,17 @@
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\bin\Debug\net8.0\OrderManagementSystem.Application.deps.json
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\bin\Debug\net8.0\OrderManagementSystem.Application.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\bin\Debug\net8.0\OrderManagementSystem.Application.pdb
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\bin\Debug\net8.0\OrderManagementSystem.Domain.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\bin\Debug\net8.0\OrderManagementSystem.Infrastructure.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\bin\Debug\net8.0\OrderManagementSystem.Domain.pdb
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\bin\Debug\net8.0\OrderManagementSystem.Infrastructure.pdb
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderManagementSystem.Application.csproj.AssemblyReference.cache
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderManagementSystem.Application.AssemblyInfoInputs.cache
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderManagementSystem.Application.AssemblyInfo.cs
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderMan.CB866A50.Up2Date
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderManagementSystem.Application.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\refint\OrderManagementSystem.Application.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\OrderManagementSystem.Application.pdb
+D:\Code\OrderManagementSystem\OrderManagementSystem.Application\obj\Debug\net8.0\ref\OrderManagementSystem.Application.dll

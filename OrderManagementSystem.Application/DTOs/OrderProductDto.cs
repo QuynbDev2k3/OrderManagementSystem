@@ -1,0 +1,10 @@
+﻿namespace OrderManagementSystem.Application.DTOs;
+
+public class OrderProductDto
+{
+    public string ProductCode { get; set; }
+    public string ProductName { get; set; }
+    public int Quantity { get; set; }
+    public decimal UnitPrice { get; set; }
+    public decimal SubTotal { get; set; }
+}

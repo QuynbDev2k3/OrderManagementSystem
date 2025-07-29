@@ -1,0 +1,11 @@
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\bin\Debug\net9.0\OrderManagementSystem.Domain.deps.json
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\bin\Debug\net9.0\OrderManagementSystem.Domain.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\bin\Debug\net9.0\OrderManagementSystem.Domain.pdb
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\OrderManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\OrderManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\OrderManagementSystem.Domain.AssemblyInfo.cs
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\OrderManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\OrderManagementSystem.Domain.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\refint\OrderManagementSystem.Domain.dll
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\OrderManagementSystem.Domain.pdb
+D:\Code\OrderManagementSystem\OrderManagementSystem.Domain\obj\Debug\net9.0\ref\OrderManagementSystem.Domain.dll
